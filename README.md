@@ -2,7 +2,7 @@
 
 Create unforgettable moments with this charming and interactive Valentine's Day web application. Perfect for romantic surprises, digital proposals, or spreading love online!
 
-![Valentine's Day App Demo]([https://via.placeholder.com/600x300.png?text=Valentine's+Day+App+Demo](https://patapulci.netlify.app/))
+💘 [Valentine's Day App Demo](https://patapulci.netlify.app)
 
 ## 🚀 Key Features
 
